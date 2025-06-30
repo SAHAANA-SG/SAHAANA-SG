@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAHAANA-SG
 - 👀 I’m interested in programming,coding, data analytics,prompt engineering
-- 🌱 I’m currently doing my pre-final year in the department of Artificial Intelligence and Data Science
+- 🌱 I’m currently doing my Final year in the department of Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on interesting internship opportunities and projects in the domain of Artificial Intelligence, Machine Learning, Data Analytics,Web Development,Generative AI
 - 📫 How to reach me - sahaana.sg@gmail.com
 - 😄 Pronouns: Consisitent learner who always tries to learn something new and master it as much as possbible
